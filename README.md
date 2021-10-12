@@ -28,13 +28,13 @@
 make
 ```
 
-<p align="left">To compile client programs:</p>
+<p align="left">To compile client program:</p>
 
 ```bash
 make client
 ```
 
-<p align="left">To compile server programs:</p>
+<p align="left">To compile server program:</p>
 
 ```bash
 make server
@@ -59,7 +59,7 @@ make fclean
 ```
 
 <h2 align="left">▶️ Run</h2>
-<p align="left">Fist run server:</p>
+<p align="left">First run server:</p>
 
 ```bash
 ./server
